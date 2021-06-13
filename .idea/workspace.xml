@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="510da391-e61a-48cc-b39e-31062ada14f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="Evelin-76" />
+        <option name="repository" value="GroupProjectX" />
+      </RepoCoordinatesHolder>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tanxOwlxr2EjNlVEMbtVKA7UrI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/TC_003.java" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="510da391-e61a-48cc-b39e-31062ada14f2" name="Default Changelist" comment="" />
+      <created>1623016315789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623016315789</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1623016573442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623016573442</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1623017129833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623017129833</updated>
+    </task>
+    <task id="LOCAL-00003" summary="TC_003 work1">
+      <created>1623017186602</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623017186602</updated>
+    </task>
+    <task id="LOCAL-00004" summary="TC_003 completed">
+      <created>1623017215626</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623017215626</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding file1">
+      <created>1623412436027</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623412436027</updated>
+    </task>
+    <task id="LOCAL-00006" summary="collaborating">
+      <created>1623414564237</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623414564237</updated>
+    </task>
+    <task id="LOCAL-00007" summary="eliminating collaborating">
+      <created>1623414961220</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623414961220</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new commit">
+      <created>1623439971068</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623439971068</updated>
+    </task>
+    <task id="LOCAL-00009" summary="first commit">
+      <created>1623440363330</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1623440363330</updated>
+    </task>
+    <task id="LOCAL-00010" summary="all commit">
+      <created>1623588326571</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1623588326571</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/tc003" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit TC_003" />
+    <MESSAGE value="TC_003 work1" />
+    <MESSAGE value="TC_003 completed" />
+    <MESSAGE value="adding file1" />
+    <MESSAGE value="collaborating" />
+    <MESSAGE value="eliminating collaborating" />
+    <MESSAGE value="new commit" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="all commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="all commit" />
+  </component>
+</project>
